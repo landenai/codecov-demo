@@ -4,3 +4,4 @@ class Smiles:
 
     def frown(self):
         return ":("
+
